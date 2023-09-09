@@ -1,0 +1,9 @@
+classes:
+  - name: sentado
+    color: '#3ad86a'
+  - name: acostado
+    color: '#ff6700'
+  - name: quieto
+    color: '#f500b7'
+  - name: saludo
+    color: '#00ccf3'
